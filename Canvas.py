@@ -1,3 +1,4 @@
+#arj
 class script(object):
     START_TXT = """Hᴇʏ {},
         Mʏ ɴᴀᴍᴇ ɪs Jᴇɴɴɪᴇ... ☺
